@@ -2,3 +2,4 @@ build
 .vscode
 optionpricing.egg-info
 venv
+*.pyc
